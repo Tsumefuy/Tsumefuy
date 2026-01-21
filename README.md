@@ -38,10 +38,16 @@ Computer Engineering Student & Mechatronics Technician focused on building secur
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Tsumefuy&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Tsumefuy&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tsumefuy&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<br/>
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyZzE4ZDM0MjMyNHpocXQ3eTI5b3RpY2Z2MjU2d2txaDNvMHUxc2luYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fghuvXNgCqstJGvpWA/giphy.gif" width="450" alt="Darth Vader" />
+  <p><b><i>May the force be with you.</i></b></p>
+</div>
