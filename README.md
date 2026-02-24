@@ -39,9 +39,9 @@ Computer Engineering Student & Mechatronics Technician focused on building secur
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 # GitHub Stats:
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Tsumefuy&show_icons=true&theme=github_dark)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Tsumefuy&theme=github_dark)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Tsumefuy&layout=compact&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Tsumefuy&show_icons=true&theme=github_dark)<br/>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Tsumefuy&layout=compact&theme=github_dark)<br/>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Tsumefuy&theme=github_dark)<br/>
 
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
